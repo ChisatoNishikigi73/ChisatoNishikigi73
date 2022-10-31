@@ -17,7 +17,7 @@
 
 The infinite progress!
 
-😄 Welcome to my cafe [@LycoReco-Cafe ｜ LycoReco 咖啡馆](https://https://github.com/LycoReco-Cafe)
+😄 Welcome to my cafe [@LycoReco-Cafe ｜ LycoReco 咖啡馆](https://github.com/LycoReco-Cafe)
 ## ⌨️ Languages
 
 ![C](https://img.shields.io/badge/-C-a8b9cc?style=flat-square&logo=C&logoColor=fff)
