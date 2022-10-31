@@ -29,6 +29,7 @@ The infinite progress!
 ![Node.js](https://img.shields.io/badge/-Node.js-339933?style=flat-square&logo=Node.js&logoColor=fff)
 ![Python](https://img.shields.io/badge/-Python-3776ab?style=flat-square&logo=python&logoColor=fff)
 ![PHP](https://img.shields.io/badge/-PHP-777bb4?style=flat-square&logo=PHP&logoColor=fff)
+![git](https://img.shields.io/badge/-Git-dd4814?style=flat-square&logo=git&logoColor=fff)
 
 😠 **I HATE Kotlin & Python.**
 
