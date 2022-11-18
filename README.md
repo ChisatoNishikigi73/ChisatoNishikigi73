@@ -40,7 +40,7 @@ The infinite progress!
 
 [![BiliBili](https://img.shields.io/badge/-Chisato73-00a1d6?style=flat-square&logo=bilibili&logoColor=fff)](https://space.bilibili.com/323081938)
 [![Steam](https://img.shields.io/badge/-ChisatoNishikigi73-000000?style=flat-square&logo=steam&logoColor=white&labelColor=000000)](https://steamcommunity.com/id/12389463925)
-![E-Mail](https://img.shields.io/badge/-lxr2061895177@163.com-168de2?style=flat-square&logo=mail.ru&logoColor=white&labelColor=168de2)
+![E-Mail](https://img.shields.io/badge/-Chisatonishikigi73@gmail.com-168de2?style=flat-square&logo=mail.ru&logoColor=white&labelColor=168de2)
 
 ## 💻 Working Environment
 
