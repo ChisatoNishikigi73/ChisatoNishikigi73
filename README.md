@@ -22,6 +22,7 @@ The infinite progress!
 
 ![C](https://img.shields.io/badge/-C-a8b9cc?style=flat-square&logo=C&logoColor=fff)
 ![C](https://img.shields.io/badge/-C%23-ffffff?style=flat-square&logo=C#&logoColor=fff)
+![C](https://img.shields.io/badge/-C++-ffffff?style=flat-square&logo=C#&logoColor=fff)
 ![TypeScript](https://img.shields.io/badge/-TypeScript-FFFFFF?style=flat-square&logo=TypeScript&labelColor=FFFFFF&logoColor=2E86C1)
 ![JavaScript](https://img.shields.io/badge/-JavaScript-f7df1e?style=flat-square&logo=JavaScript&labelColor=f7df1e&logoColor=000)
 ![Java](https://img.shields.io/badge/-Java-f80000?style=flat-square&logo=oracle&logoColor=fff)
