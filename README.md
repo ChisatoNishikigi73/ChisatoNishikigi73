@@ -4,7 +4,12 @@
 
 ### Hi there 👋 This... It's me? Okay.
 
-🤣 The infinite progress ｜ 无限进步
+喜欢做有趣的项目、
+喜欢人像和风景拍摄、
+喜欢圣地巡礼、
+喜欢玩Apex Legends、
+喜欢捏粘土人。
+
 > 美少女が好きです。
 
 <img align="right" src="https://github-readme-stats.vercel.app/api/wakatime?username=ChisatoNishikigi73&langs_count=5" title="ChisatoNishikigi73 Wakatime Stats" alt="ChisatoNishikigi73 Wakatime Stats" width="49%">
