@@ -1,26 +1,20 @@
 <img align="right" src="https://github-readme-stats.vercel.app/api?username=ChisatoNishikigi73&custom_title=Sakana~&show_icons=true&hide_border=true&icon_color=#23DDF3&title_color=000&include_all_commits_disable=false&custom_title=Sakana~&count_private=true">
 
-# ChisatoNishikigi73 ⛱
+# ChisatoNishikigi73
 
-### Hi there 👋 This... It's me? Okay.
+### 你好
+
+我是Chisato73
 
 喜欢做有趣的项目、
 喜欢人像和风景拍摄、
 喜欢圣地巡礼、
-喜欢玩Apex Legends、
+喜欢玩Apex、
 喜欢捏粘土人。
 
-> 美少女が好きです。
+> 同时，也喜欢美少女
 
 <img align="right" src="https://github-readme-stats.vercel.app/api/wakatime?username=ChisatoNishikigi73&langs_count=5" title="ChisatoNishikigi73 Wakatime Stats" alt="ChisatoNishikigi73 Wakatime Stats" width="49%">
-
-- Chinese / 16 y.o. / ~~High school student~~(Dropout)
-- zh-CN / en-US / ~~ja-JP~~(In the study)
-- Programmer / Developer / Coder / Engineer
-- Indie Game Enthusiast
-- Real / Virtual Games Lover
-
-The infinite progress!
 
 😄 Welcome to my cafe [@LycoReco-Cafe ｜ LycoReco 咖啡馆](https://github.com/LycoReco-Cafe)
 ## ⌨️ Languages
