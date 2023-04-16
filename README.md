@@ -9,11 +9,10 @@
 喜欢做有趣的项目、
 喜欢人像和风景拍摄、
 喜欢圣地巡礼、
-喜欢玩Apex、
-喜欢捏粘土人。
+喜欢玩Apex
 
 > 同时，也喜欢美少女
-<img align="right" src="https://github-readme-stats.vercel.app/api/wakatime?username=ChisatoNishikigi73" title="ChisatoNishikigi73 Wakatime Stats" alt="ChisatoNishikigi73 Wakatime Stats" width="49%">
+<img align="right" src="https://github-readme-stats.vercel.app/api/wakatime?username=ChisatoNishikigi73" title="ChisatoNishikigi73 Wakatime Stats" alt="This Week" width="49%">
 
 😄 Welcome to my cafe [@LycoReco-Cafe ｜ LycoReco 咖啡馆](https://github.com/LycoReco-Cafe)
 ## ⌨️ Languages
