@@ -13,7 +13,7 @@
 喜欢捏粘土人。
 
 > 同时，也喜欢美少女
-<img align="right" src="https://github-readme-stats.vercel.app/api/wakatime?username=ChisatoNishikigi73" title="ChisatoNishikigi73's Coding Time" alt="ChisatoNishikigi73 Wakatime Stats" width="49%">
+
 
 😄 Welcome to my cafe [@LycoReco-Cafe ｜ LycoReco 咖啡馆](https://github.com/LycoReco-Cafe)
 ## ⌨️ Languages
