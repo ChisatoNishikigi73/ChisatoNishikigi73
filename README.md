@@ -51,6 +51,6 @@
 ## 📱 Devices in Use
 
 
-![Apple MacBookPro M1 max](https://img.shields.io/badge/Apple%20MacBookPro%20M1Max-a2aaad?style=flat-square&logo=apple&logoColor=ffffff)
+![Apple MacBookPro M1 max](https://img.shields.io/badge/Apple%20MacBookPro%20M1Max-000000?style=flat-square&logo=apple&logoColor=ffffff)
 ![Apple IPadPro M1](https://img.shields.io/badge/Apple%20IPadPro%20M1-a2aaad?style=flat-square&logo=apple&logoColor=ffffff)
-![ASUS ROG 5](https://img.shields.io/badge/ASUS%20ROG%205-dd4814?style=flat-square&logo=asus&logoColor=ffffff)
+![Apple IPhone 14 Pro Max](https://img.shields.io/badge/Apple%20IPhone%205-000000?style=flat-square&logo=apple&logoColor=ffffff)
