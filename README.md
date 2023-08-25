@@ -49,3 +49,7 @@
 ![iOS 15.4](https://img.shields.io/badge/iOS%2015.4-000000?style=flat-square&logo=iOS&logoColor=ffffff)
 
 ## 📱 Devices in Use
+
+![Apple MacBookPro M1 max](https://img.shields.io/badge/Apple%20MacBookPro%20M1Max-000000?style=flat-square&logo=apple&logoColor=ffffff)
+![Apple IPadPro M1](https://img.shields.io/badge/Apple%20IPadPro%20M1-a2aaad?style=flat-square&logo=apple&logoColor=ffffff)
+![Apple IPhone 14 Pro Max](https://img.shields.io/badge/Apple%20IPhone%2014%20Pro%20Max-000000?style=flat-square&logo=apple&logoColor=ffffff)
