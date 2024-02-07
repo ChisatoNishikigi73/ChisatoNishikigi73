@@ -11,7 +11,7 @@
 喜欢圣地巡礼、
 喜欢玩Apex
 
-> 同时，也喜欢美少女
+> 喜欢你
 <img align="right" src="https://github-readme-stats.vercel.app/api/wakatime?username=ChisatoNishikigi73" title="This Week" alt="This Week" width="49%">
 
 😄 Welcome to my cafe [@LycoReco-Cafe ｜ LycoReco 咖啡馆](https://github.com/LycoReco-Cafe)
@@ -29,7 +29,7 @@
 ![PHP](https://img.shields.io/badge/-PHP-777bb4?style=flat-square&logo=PHP&logoColor=fff)
 ![git](https://img.shields.io/badge/-Git-dd4814?style=flat-square&logo=git&logoColor=fff)
 
-😠 **I HATE Kotlin & Python.**
+😠 **I HATE Cpp.**
 
 
 ## 📫 Get in Touch
@@ -47,9 +47,3 @@
 ![Ubuntu 22.04](https://img.shields.io/badge/Ubuntu%2022.04-dd4814?style=flat-square&logo=ubuntu&logoColor=ffffff)
 ![Android Tiramisu 13](https://img.shields.io/badge/Android%20Tiramisu%2013-3ddc84?style=flat-square&logo=android&logoColor=ffffff)
 ![iOS 15.4](https://img.shields.io/badge/iOS%2015.4-000000?style=flat-square&logo=iOS&logoColor=ffffff)
-
-## 📱 Devices in Use
-
-![Apple MacBookPro M1 max](https://img.shields.io/badge/Apple%20MacBookPro%20M1Max-000000?style=flat-square&logo=apple&logoColor=ffffff)
-![Apple IPadPro M1](https://img.shields.io/badge/Apple%20IPadPro%20M1-a2aaad?style=flat-square&logo=apple&logoColor=ffffff)
-![Apple IPhone 14 Pro Max](https://img.shields.io/badge/Apple%20IPhone%2014%20Pro%20Max-000000?style=flat-square&logo=apple&logoColor=ffffff)
