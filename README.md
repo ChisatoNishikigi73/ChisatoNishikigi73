@@ -1,8 +1,26 @@
-<div align="center" style="font-family: 'Courier New', Courier, monospace; image-rendering: pixelated;">
+<style>
+@font-face {
+  font-family: 'CustomCourier';
+  src: url('fonts/Courier-Prime/Courier-Prime-4.ttf') format('truetype');
+}
+@font-face {
+  font-family: 'GL-Tsukiji';
+  src: url('fonts/GL-Tsukiji/GL-Tsukiji-Shogo.ttf') format('truetype');
+}
+
+.japanese-text {
+  font-family: 'GL-Tsukiji', sans-serif;
+  font-size: 20px;
+  color: #FF6B6B;
+}
+</style>
+
+<div align="center" style="font-family: 'CustomCourier', monospace; image-rendering: pixelated;">
 
 # <span style="font-size: 24px;">I'm ChisatoNishikigi73</span>
 
-<span style="font-size: 20px;">世の中は　地獄の上の　花見かな</span>
+<span class="japanese-text">世の中は　地獄の上の　花見かな</span>
+
 
 ## <span style="font-size: 20px;">Programming Languages</span>
 ![Rust](https://img.shields.io/badge/-Rust-000000?style=flat-square&logo=rust&logoColor=fff)
@@ -17,3 +35,4 @@
 
 ## <span style="font-size: 20px;">Contact Me</span>
 [![GitHub Issues](https://img.shields.io/github/issues/ChisatoNishikigi73/ChisatoNishikigi73?style=flat-square&logo=github&logoColor=white)](https://github.com/ChisatoNishikigi73/ChisatoNishikigi73/issues)
+</div>
